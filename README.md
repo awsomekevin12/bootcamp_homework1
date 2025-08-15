@@ -32,7 +32,7 @@ In this project, we're going to dig into the data to figure out exactly where th
 
 ## Repo Plan
 *   **/data/:** This is where we'll keep the raw data files from the MTA.
-*   **/notebooks/:** For our scratch work—exploring the data and trying out ideas.
-*   **/src/:** For any polished, reusable code we write.
-*   **/docs/:** For our stakeholder memo and final presentation, also stakeholder memo is in the repo.
-*   **Cadence:** We'll be updating the project at least once a week.
+*   **/notebooks/:** For our scratch work exploring the data and trying out ideas.
+*   **/src/:** For any polished code we write.
+*   **/docs/:** For final presentation, stakeholder memo is in the repo.
+*   **Cadence:** We'll update the project at least once a week.
